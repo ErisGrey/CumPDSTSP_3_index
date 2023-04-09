@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\FinalPDSTSP\x64\Debug\FinalPDSTSP.exe
+C:\Users\admin\source\repos\FinalPDSTSP1\x64\Debug\FinalPDSTSP.exe
+C:\Users\admin\source\repos\FinalPDSTSP1_3_index\x64\Debug\FinalPDSTSP.exe
